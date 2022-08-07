@@ -6,6 +6,7 @@ public class SimpleExp {
 		System.out.println("30");
 		System.out.println("44");
 		System.out.println("555");
+		System.out.println("55");
 	}
 
 }
